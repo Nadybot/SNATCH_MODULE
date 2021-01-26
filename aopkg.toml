@@ -1,0 +1,7 @@
+name = "SNATCH_MODULE"
+description = "Informs you about untaken NW fields"
+version = "1.0.0"
+author = "Nadyita"
+github = "Nadybot/SNATCH_MODULE"
+bot_type = "Nadybot"
+bot_version = "^5.0.0-beta1"
